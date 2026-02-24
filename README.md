@@ -3,7 +3,7 @@
 
 ###
 
-<div align="left">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 6px; border: 1px solid #393c41; padding: 12px; border-radius: 8px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
