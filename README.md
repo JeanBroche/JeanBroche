@@ -10,8 +10,6 @@
 
 I like to develop software and web solutions that are truly useful and efficient. During my studies, I have developed a strong interest in AI and data science, and learned to develop software and web applications using various programming languages and frameworks. I am also proficient in managing projects and collaborating with teams.
 
-Using Arch btw...
-
 ## Stack
 
 **Languages**
